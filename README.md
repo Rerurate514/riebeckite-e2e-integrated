@@ -113,11 +113,10 @@ To validate a release candidate, create a branch, pin the candidate version in `
 
 ## Related documentation
 
-- [Quick Start](https://riebeckite.dev/getting-started/quick-start)
-- [Project structure](https://riebeckite.dev/getting-started/project-structure)
-- [Integrated setup](https://riebeckite.dev/getting-started/integrated-setup)
-- [Cloudflare Workers deployment](https://riebeckite.dev/guides/deployment/cloudflare-workers)
-- [GitHub Actions deployment](https://riebeckite.dev/guides/deployment/github-actions)
+- [Quick Start](https://riebeckite.dev/docs/getting-started/quick-start)
+- [Content repositories](https://riebeckite.dev/docs/guides/content-repositories/basics)
+- [Cloudflare Workers deployment](https://riebeckite.dev/docs/guides/deployment/cloudflare-workers)
+- [GitHub Actions deployment](https://riebeckite.dev/docs/guides/deployment/github-actions)
 
 ## License
 
