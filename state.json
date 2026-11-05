@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "lastSuccess": {
+    "runId": "14e4f8bf-7689-4fd2-b0bc-f83cc888f194",
+    "publishedAt": "2026-11-05T03:15:13.821Z",
+    "publicationFingerprint": "c0394666ffa8883002db04faf1ad0379f022ed7aaddb5daf9876f3e05a0c32e1",
+    "entries": [
+      {
+        "slug": "index",
+        "permalink": "/",
+        "title": "Home",
+        "visibility": "public",
+        "fingerprint": "2e69de5389cad815a13f480027d0e8bf705602f975c4fdf7e0ebf6dfbae0d0da",
+        "contentFingerprint": "943b86c5838fdc6ccc520968eba8da8fdb2701a1e78c80da75505a61465dba4b"
+      },
+      {
+        "slug": "notes/attachments",
+        "permalink": "/notes/attachments",
+        "title": "Images and attachments",
+        "visibility": "public",
+        "fingerprint": "21927dd908d464a565e6fb00c3197dab9f860492bf0de05812d547762b3ea57f",
+        "contentFingerprint": "c9dd581fad40ce8c41e2b899da17b0682205d70524d0ff0f39f02f4e1eab0d20"
+      },
+      {
+        "slug": "notes/diagram",
+        "permalink": "/notes/diagram",
+        "title": "Mermaid diagram",
+        "visibility": "public",
+        "fingerprint": "f0c24bacbae60b6f73613f2aef60cbb2da408197f9aef909867a88bd7c4791ce",
+        "contentFingerprint": "5a610bd5fc206eb495a6932c58c61c7987b34b7346faf818613df49d52494d67"
+      },
+      {
+        "slug": "notes/japanese",
+        "permalink": "/notes/japanese",
+        "title": "日本語のページ",
+        "visibility": "public",
+        "fingerprint": "05fbe7487ac76939783ce641288052565145589998e9318f9115517541b1caca",
+        "contentFingerprint": "75ed720f86bdb2b57c421eba18a61a7172f19f4e260345f241e97485deff2835"
+      },
+      {
+        "slug": "notes/markdown",
+        "permalink": "/notes/markdown",
+        "title": "Markdown and links",
+        "visibility": "public",
+        "fingerprint": "8116715bab9bb45d7996a990b48f66363ed87f7912d94807ff56f8b5d0a53a07",
+        "contentFingerprint": "56869590ccde6d5c8355eaad0271cb1ecf471a5a42d3a2951fc03d8b006b97b3"
+      },
+      {
+        "slug": "notes/welcome",
+        "permalink": "/notes/welcome",
+        "title": "Welcome",
+        "visibility": "public",
+        "fingerprint": "fb99bc935b20b79c91d4f9748b21e692a78052ae78f2b0e1e4a96d3c1a187ecc",
+        "contentFingerprint": "693d79c6fbeaa4b41ee49e54572b118f3ae9c3599f3f56210bf64190d009aeca"
+      }
+    ],
+    "redirects": [],
+    "artifactFingerprint": "7039dc8cdd372150fb9f91f1426b770d02ce8689c4a309b2110bf6fb12124d3f",
+    "provider": "cloudflare-workers"
+  }
+}
