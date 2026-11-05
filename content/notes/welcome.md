@@ -30,3 +30,7 @@ You can link to a folder, too: [[notes]].
 - [[markdown]]
 - [[diagram]]
 - [[attachments]]
+
+## 更新E2E
+
+2026-11-05 integrated の自動公開を確認するための更新です。
