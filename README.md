@@ -92,12 +92,12 @@ The first deploy creates the Worker and the custom domain. No separate DNS recor
 5. deploys with `cloudflare/wrangler-action`;
 6. records the publication state on the `publication-state` branch.
 
-Required repository secrets:
+Required repository credentials:
 
-| Secret | Purpose |
-| --- | --- |
-| `CLOUDFLARE_API_TOKEN` | Workers Scripts:Edit for the account |
-| `CLOUDFLARE_ACCOUNT_ID` | Cloudflare account ID |
+| Name | Kind | Purpose |
+| --- | --- | --- |
+| `CLOUDFLARE_API_TOKEN` | Secret | Workers Scripts:Edit for the account |
+| `CLOUDFLARE_ACCOUNT_ID` | Variable | Cloudflare account ID |
 
 Set them in **Settings → Secrets and variables → Actions**. `riebeckite deploy setup` can also register them when the GitHub CLI is installed.
 
@@ -108,10 +108,10 @@ Set them in **Settings → Secrets and variables → Actions**. `riebeckite depl
 ## Related documentation
 
 - [Quick Start](https://riebeckite.dev/getting-started/quick-start)
-- [Project structure](https://riebeckite.dev/guides/content-repositories/basics)
+- [Project structure](https://riebeckite.dev/getting-started/project-structure)
+- [Integrated setup](https://riebeckite.dev/getting-started/integrated-setup)
 - [Cloudflare Workers deployment](https://riebeckite.dev/guides/deployment/cloudflare-workers)
 - [GitHub Actions deployment](https://riebeckite.dev/guides/deployment/github-actions)
-- [Separate content repository](https://riebeckite.dev/guides/deployment/separate-content-repository)
 
 ## License
 
